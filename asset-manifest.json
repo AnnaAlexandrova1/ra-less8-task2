@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-less8-task2/static/css/main.641804f0.css",
+    "main.js": "/ra-less8-task2/static/js/main.c4e85a4a.js",
+    "index.html": "/ra-less8-task2/index.html",
+    "main.641804f0.css.map": "/ra-less8-task2/static/css/main.641804f0.css.map",
+    "main.c4e85a4a.js.map": "/ra-less8-task2/static/js/main.c4e85a4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.641804f0.css",
+    "static/js/main.c4e85a4a.js"
+  ]
+}
